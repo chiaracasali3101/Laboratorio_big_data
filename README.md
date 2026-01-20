@@ -103,6 +103,6 @@ Per eseguire il progetto in locale:
 
 ---
 
-**Autrice:** Chiara Casali o Caseli
+**Autrice:** Chiara Casali o Caselli
 **Corso:** Laboratorio di Big Data, Data Mining e Data Analytics
 **Anno Accademico:** 2025/2026
