@@ -21,7 +21,6 @@ progetto_big_data/
 ├── progetto.ipynb                    # Notebook principale (Analisi, Clustering e ML)
 ├── README.md                         # Sintesi del progetto e istruzioni per l'uso
 ├── requirements.txt                  # Requisiti per l'installazione
---
 
 ## ⚙️ Metodologia
 Il progetto segue un flusso di lavoro strutturato in 5 fasi principali:
@@ -51,7 +50,6 @@ Il progetto segue un flusso di lavoro strutturato in 5 fasi principali:
 -   Misura dell'efficacia dei modelli e conclusioni strategiche per il business.
 -   Metriche di Valutazione: Non si guarda solo l'accuratezza totale, ma si analizza la Matrice di Confusione per vedere quanti falsi positivi (hit previste che falliscono) produce il modello. Si utilizza Precision (precisione delle hit previste) e Recall (capacità di trovare tutte le hit reali).
 -   Feature Importance: Vengono identificati i "driver" del successo. Se la durata o il numero della traccia nell'album risultano determinanti, vengono forniti consigli pratici agli artisti.
--  Conclusione: Giustificazione della scelta del modello migliore basandosi sul trade-off tra potenza di calcolo (Rete Neurale) e interpretabilità (Regressione Logistica).
 
 
 ---
