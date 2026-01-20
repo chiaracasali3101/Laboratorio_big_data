@@ -79,7 +79,7 @@ Per eseguire il progetto in locale:
 
 1.  **Clona la repository** (o scarica la cartella):
     ```bash
-    git clone <repository-url>
+    git clone <[repository-url](https://github.com/chiaracasali3101/Laboratorio_big_data.git)>
     cd progetto_big_data
     ```
 
